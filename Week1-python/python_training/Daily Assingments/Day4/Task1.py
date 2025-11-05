@@ -1,0 +1,1 @@
+# Create a Python list and demonstrate list slicing and appending new elements.
